@@ -51,6 +51,14 @@ This is a common practice when local tools fail
 Step 8: Verification
 I tested the cracked passwords in the application login form at http://localhost:8003 to confirm they worked.
 
+## EVIDENCE - SCREENSHOTS
+
+### Screenshot 1: Database Access
+![Database showing password hashes](screenshots/Screenshot\ 2026-02-27\ at\ 21.52.04.png)
+
+### Screenshot 2: CrackStation Results
+![CrackStation showing cracked passwords](screenshots/Screenshot\ 2026-02-27\ at\ 21.57.33.png)
+
 Cracked Passwords (6)
 Username	Password	Hash
 whatsupdoc@looneytunes.tv	carrots123	a0e8402ff185455606a2ae870dcbc4cd
